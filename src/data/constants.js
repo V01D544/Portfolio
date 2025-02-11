@@ -9,7 +9,8 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/V01D544",
   resume:
-    "https://drive.google.com/file/d/1KHqftYpPMTyqhMecBg_NHwNCMiJGsPiR/view?usp=share_link",
+    "https://drive.google.com/file/d/1hXf4g5OensVMspFimefgXoOSawxwOqhq/view?usp=sharing",
+    // "https://drive.google.com/file/d/1KHqftYpPMTyqhMecBg_NHwNCMiJGsPiR/view?usp=share_link",
   linkedin: "https://www.linkedin.com/in/krshubham544/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/i_krshubham544/",
@@ -298,8 +299,10 @@ export const experiences = [
     role: "Intern - Vehicle License Plate Detection System",
     company: "NIT Jamshedpur",
     date: "July 2023 - December 2023",
-    desc: "Developed an Automatic License Plate Recognition (ALPR) system using CNNs, enhancing accuracy in multi-plate detection and low-resolution images. Implemented image preprocessing, character segmentation, and recognition techniques to enable real-time processing.",
-    skills: ["Python", "TensorFlow", "Keras", "Computer Vision", "Deep Learning"],
+    desc:"Developed a web application achieving 0.844 mAP for license plate detection using YOLOv9, integrating a RESTful API with Python Flask and pre-trained CNN models, while implementing OCR with PyTesseract for text extraction.",
+    // desc: "Developed an Automatic License Plate Recognition (ALPR) system using CNNs, enhancing accuracy in multi-plate detection and low-resolution images. Implemented image preprocessing, character segmentation, and recognition techniques to enable real-time processing.",
+    // skills: ["Python", "TensorFlow", "Keras", "Computer Vision", "Deep Learning"],
+    skills:["Python", "Flask", "YOLOv9", "MobileNetV3", "InceptionV3", "InceptionResNetV2", "OpenCV", "PyTesseract", "HTML", "CSS"],
   }
 ];
 
