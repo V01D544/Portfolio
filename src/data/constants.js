@@ -499,9 +499,8 @@ github: "https://github.com/V01D544/multiple-disease-prediction-systems-/tree/ma
     description:
     "Developed an automated exam tracking system using web scraping (Beautiful Soup) and full-stack technologies, enabling secure user authentication and admin-controlled exam scheduling.",
     image:
-    "https://private-user-images.githubusercontent.com/93920333/261406909-429272ea-9527-4d01-93b0-c8c5f34dd0d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxNjM1NDYsIm5iZiI6MTczOTE2MzI0NiwicGF0aCI6Ii85MzkyMDMzMy8yNjE0MDY5MDktNDI5MjcyZWEtOTUyNy00ZDAxLTkzYjAtYzhjNWYzNGRkMGQwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEwVDA0NTQwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1YjFiMTBiZDUzMzM3MjBjMWVlZmEwNWI5NGViZTcxNmUwNTVlZDFkNTAwMjYyNzkwZTZhODllZjUwZmRmNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.O5PpWDjXqIWeUgtVbIBNaCUljzwFGS1AWmquVLfJrTc",
-      // "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
-    tags: [
+     "https://github.com/V01D544/Exam-Tracker/raw/main/examtrkerImg.png"
+      tags: [
       "HTML", "CSS", "JavaScript" ,"Express.js", "Node.js" ,"Mongodb" ,"Python",
     ],
     category: "web app",
@@ -533,9 +532,7 @@ github: "https://github.com/V01D544/multiple-disease-prediction-systems-/tree/ma
     description:
     "Developed a A web-based weather application that provides real-time weather updates for any location using an external weather API. The application displays current temperature, humidity, wind speed, and weather conditions with a user-friendly interface",
     image:
-    "https://private-user-images.githubusercontent.com/93920333/260250580-f9bdcb0e-8ce8-424e-b0c7-c4ace2c6367b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxNjM4ODMsIm5iZiI6MTczOTE2MzU4MywicGF0aCI6Ii85MzkyMDMzMy8yNjAyNTA1ODAtZjliZGNiMGUtOGNlOC00MjRlLWIwYzctYzRhY2UyYzYzNjdiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEwVDA0NTk0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNWJlYTBjODQ4MmU0YWQ4MDVhYTNhMDhmNDIxZjdlY2FjZmI3NzBkZjVkZDVhYTEwYjVkZDc2ZGNiZTI2OTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.80wWud0iP4-7m3e-XU83KgdmBSJIwAldrCZGJldmyOw",
-    // "https://private-user-images.githubusercontent.com/93920333/260250580-f9bdcb0e-8ce8-424e-b0c7-c4ace2c6367b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkxMDE0MDAsIm5iZiI6MTczOTEwMTEwMCwicGF0aCI6Ii85MzkyMDMzMy8yNjAyNTA1ODAtZjliZGNiMGUtOGNlOC00MjRlLWIwYzctYzRhY2UyYzYzNjdiLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA5VDExMzgyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFiN2JiZGRjMjU0YTRhMjQxMWI1ODNjNWJiN2EyMjg4OWU2ODU0MTA4MzliNGVlYjkyYzUzODlkZGEyZjllZmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kzQUhMrIareHvLHU7PGr62NUD9j16tEGXclvV3j7eyk",
-      // "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+      "https://github.com/V01D544/weather_application/raw/main/weatherVibesImg.png",
     tags: [
       "React","Weather Api"
     ],
